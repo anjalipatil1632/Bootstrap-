@@ -55,18 +55,15 @@ body {
   bottom: 0px;
   z-index: 1;
 }
-
 .modal-header {
-  background-color:#512DA8;
+  background-color: #512DA8;
 }
-.modal-title{
-     color:#ddd;
+.modal-header .modal-title {
+  color: #ddd;
 }
-.close{
-     color:#ddd;
+.modal-header .close {
+  color: #ddd;
 }
-
-
-.modal-body{
-  background-color:#D1C4E9;
+.modal-body {
+  background-color: #D1C4E9;
 }
