@@ -75,6 +75,23 @@ body{
     z-index: 1;
 }
 
+.modal-header {
+    background-color: $background-dark;
+
+    .modal-title{
+        text-decoration-color: $lt-gray;
+    }
+    .close{
+        text-decoration-color: $lt-gray;
+    }
+}
+
+.modal-body{
+    background-color: $background-pale;
+}
+
+
+
 
 /*we need to install
 npm install --save-dev node-sass@4.7.2 
